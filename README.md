@@ -1,7 +1,7 @@
 # AmazonScrapingApp
 
 This app uses Selenium, Tkinter and Pandas. For Selenium it will attempt to use the Chrome browser, therefore a path to your chromedriver.exe must be specified.
-In the first row you will find PATH, set to the default path to the chromedriver.exe(C/programs(86x). You can simply change this if your chromediver is somewhere 
+In the very first line you will find the variable PATH, set to the default path to the chromedriver.exe(C/programs(86x). You can simply change this if your chromediver is somewhere 
 else.
 
 If you don't have the chromedriver.exe yet, you can easily download it here:
