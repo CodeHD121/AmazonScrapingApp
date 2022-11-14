@@ -68,7 +68,6 @@ def amazon_scraper():
 
                 for item in items:
                     try:
-                        # name = item.find_element_by_xpath('.//span[@class="a-size-medium a-color-base a-text-normal"]').text
                         name = item.find_element(By.XPATH,'.//span[@class="a-size-medium a-color-base a-text-normal"]').text
                         names.append(name)
 
