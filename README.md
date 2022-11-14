@@ -18,9 +18,13 @@ below and press "Save as xlsx". The file will be in the same folder as the Amazo
 Or you can press "Exit & Over" to close the app without saving data.
 
 ![AmazonScraper1](https://user-images.githubusercontent.com/91540358/201721971-71329697-a82d-4eb4-bb27-c18c829a77e1.png)
-![AmazonScraper2](https://user-images.githubusercontent.com/91540358/201721256-7560a5f6-bc82-4231-9914-248c4d3e7b0d.png)
+
 ![AmazonScraper2b](https://user-images.githubusercontent.com/91540358/201721978-c147c82b-16fd-40ca-b6c6-170f5181c60d.png)
+
+![AmazonScraper2](https://user-images.githubusercontent.com/91540358/201721256-7560a5f6-bc82-4231-9914-248c4d3e7b0d.png)
+
 ![AmazonScraper3](https://user-images.githubusercontent.com/91540358/201721260-12f556e3-45a8-428b-901b-a95ec49c74a0.png)
+
 ![AmazonScraper4](https://user-images.githubusercontent.com/91540358/201721354-b2985b8c-bafd-4f1e-b9c6-fbf8b1611450.png)
 
 
