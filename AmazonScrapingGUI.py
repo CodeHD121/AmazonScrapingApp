@@ -27,8 +27,6 @@ def amazon_scraper():
     from selenium.webdriver.support import expected_conditions as EC
     import time
 
-    global data_dict
-
     url = f"https://www.amazon.de/"
     options = Options()
     service = Service(executable_path=PATH)
@@ -92,7 +90,6 @@ def amazon_scraper():
                         link = item.find_element(By.TAG_NAME,"a").get_attribute("href")
                         links.append(link)
                     except Exception as e:
-                        print("Error finding the link")
                         pass
             except Exception as d:
                 pass
